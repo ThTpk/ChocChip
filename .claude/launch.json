@@ -4,7 +4,7 @@
     {
       "name": "chocchip-web",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "output/ChocChip/web"],
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "web"],
       "port": 8765
     }
   ]
