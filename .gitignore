@@ -1,7 +1,7 @@
 # old model versions (kept on the local machine only)
-CLAUDE OUTPUTS/ChocChip/ChocChip_Model_v[1-9].glb
-CLAUDE OUTPUTS/ChocChip/ChocChip_Model_v[1-9]_*.png
-CLAUDE OUTPUTS/ChocChip/ChocChip_Model_v[1-9]_*.jpg
+output/ChocChip/ChocChip_Model_v[1-9].glb
+output/ChocChip/ChocChip_Model_v[1-9]_*.png
+output/ChocChip/ChocChip_Model_v[1-9]_*.jpg
 
 # python cache
 __pycache__/
